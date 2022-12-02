@@ -1,0 +1,32 @@
+item {
+  id: 1
+  name: 'buoy'
+}
+item {
+  id: 2
+  name: 'unidentified object'
+}
+item {
+  id: 3
+  name: 'net cloth'
+}
+item {
+  id: 4
+  name: 'line fragment'
+}
+item {
+  id: 5
+  name: 'metal'
+}
+item {
+  id: 6
+  name: 'tire'
+}
+item {
+  id: 7
+  name: 'processed wood'
+}
+item {
+  id: 8
+  name: 'vessel'
+}
